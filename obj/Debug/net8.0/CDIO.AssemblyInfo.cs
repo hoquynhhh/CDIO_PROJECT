@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+439c791567bd99c3f58b439fb6e26f236f70512f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

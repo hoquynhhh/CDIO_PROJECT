@@ -1,58 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\CDIO\\",
+  "WorkspaceRootPath": "D:\\CDIO\\CDIO_PROJECT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\views\\userhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\userhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\controllers\\userhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:controllers\\userhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\controllers\\managerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:controllers\\managerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\models\\register viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\controllers\\managerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:controllers\\managerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\models\\register viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:models\\register viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|c:\\users\\admin\\downloads\\cdio\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|d:\\cdio\\cdio_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F52AA7-6757-4985-B8C4-0F90715EF0EF}|CDIO.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\EmployeeHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\EmployeeHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\EmployeeHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\CustomerHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CustomerHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\CustomerHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +76,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,63 +84,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserHomeController.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\UserHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserHomeController.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\UserHomeController.cs",
+              "RelativeToolTip": "Controllers\\UserHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:31:47.272Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Views\\UserHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserHome\\Index.cshtml",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Views\\UserHome\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserHome\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T11:27:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T11:27:16.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T11:27:09.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-21T11:01:26.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T11:01:26.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Views\\AdminHome\\Index.cshtml",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Views\\AdminHome\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHome\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Views\\AdminHome\\Index.cshtml",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Views\\AdminHome\\Index.cshtml",
               "RelativeToolTip": "Views\\AdminHome\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T10:56:47.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T10:56:47.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T17:09:07.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T17:09:07.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T17:08:44.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T17:08:44.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Models\\LoginViewModel.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Models\\LoginViewModel.cs",
               "RelativeToolTip": "Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,61 +193,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ManagerHomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\ManagerHomeController.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\ManagerHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\ManagerHomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\ManagerHomeController.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\ManagerHomeController.cs",
               "RelativeToolTip": "Controllers\\ManagerHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T17:06:57.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T17:06:57.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "EmployeeHomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\EmployeeHomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeHomeController.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\EmployeeHomeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T17:06:31.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "CustomerHomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\CustomerHomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerHomeController.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\CustomerHomeController.cs",
-              "RelativeToolTip": "Controllers\\CustomerHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T17:05:46.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminHomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\AdminHomeController.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\AdminHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminHomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\AdminHomeController.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\AdminHomeController.cs",
               "RelativeToolTip": "Controllers\\AdminHomeController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwAkAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T17:05:20.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T17:05:20.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,22 +251,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwBEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T17:01:09.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Register ViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Models\\Register ViewModel.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Models\\Register ViewModel.cs",
               "RelativeDocumentMoniker": "Models\\Register ViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Models\\Register ViewModel.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Models\\Register ViewModel.cs",
               "RelativeToolTip": "Models\\Register ViewModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDIO\\Models\\User.cs",
+              "DocumentMoniker": "D:\\CDIO\\CDIO_PROJECT\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDIO\\Models\\User.cs",
+              "ToolTip": "D:\\CDIO\\CDIO_PROJECT\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

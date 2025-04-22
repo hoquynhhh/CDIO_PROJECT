@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\CDIO\\CDIO.csproj": {}
+    "D:\\CDIO\\CDIO_PROJECT\\CDIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\CDIO\\CDIO.csproj": {
+    "D:\\CDIO\\CDIO_PROJECT\\CDIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\CDIO\\CDIO.csproj",
+        "projectUniqueName": "D:\\CDIO\\CDIO_PROJECT\\CDIO.csproj",
         "projectName": "CDIO",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\CDIO\\CDIO.csproj",
+        "projectPath": "D:\\CDIO\\CDIO_PROJECT\\CDIO.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\CDIO\\obj\\",
+        "outputPath": "D:\\CDIO\\CDIO_PROJECT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

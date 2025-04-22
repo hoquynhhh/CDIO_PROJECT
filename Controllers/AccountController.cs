@@ -62,7 +62,7 @@ namespace CDIO.Controllers
         }
 
 
-        // Xử lý đăng ký
+        // Xử lý đăng ký thành công 
         [HttpGet]
         public IActionResult Register()
         {
